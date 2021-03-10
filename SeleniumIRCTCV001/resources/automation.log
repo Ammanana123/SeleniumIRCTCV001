@@ -1,0 +1,32 @@
+[INFO ] 2021-03-08 18:01:52.257 [main] TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 2021-03-08 18:01:55.813 [main] TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 2021-03-08 18:02:06.278 [main] TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 2021-03-08 18:02:06.573 [main] TC_IRCTC_001 - ***** Clicking on Login*****
+[INFO ] 2021-03-08 18:02:50.861 [main] TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 2021-03-08 18:02:54.688 [main] TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 2021-03-08 18:03:04.846 [main] TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 2021-03-08 18:03:05.156 [main] TC_IRCTC_001 - ***** Clicking on Login*****
+[INFO ] 2021-03-08 18:05:59.070 [main] TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 2021-03-08 18:06:02.898 [main] TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 2021-03-08 18:06:13.162 [main] TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 2021-03-08 18:06:13.443 [main] TC_IRCTC_001 - ***** Clicking on Login*****
+[INFO ] 2021-03-08 18:07:03.523 [main] TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 2021-03-08 18:07:07.258 [main] TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 2021-03-08 18:07:17.672 [main] TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 2021-03-08 18:07:18.006 [main] TC_IRCTC_001 - ***** Clicking on Login*****
+[INFO ] 2021-03-08 18:09:56.536 [main] TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 2021-03-08 18:10:00.142 [main] TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 2021-03-08 18:10:11.062 [main] TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 2021-03-08 18:10:11.311 [main] TC_IRCTC_001 - ***** Clicking on Login*****
+[INFO ] 2021-03-08 18:15:03.699 [main] TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 2021-03-08 18:15:07.159 [main] TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 2021-03-08 18:15:17.631 [main] TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 2021-03-08 18:15:17.960 [main] TC_IRCTC_001 - ***** Clicking on Login*****
+[INFO ] 2021-03-08 18:15:55.910 [main] TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 2021-03-08 18:15:59.631 [main] TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 2021-03-08 18:16:10.024 [main] TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 2021-03-08 18:16:10.308 [main] TC_IRCTC_001 - ***** Clicking on Login*****
+[INFO ] 2021-03-08 18:17:09.578 [main] TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 2021-03-08 18:17:13.357 [main] TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 2021-03-08 18:17:23.563 [main] TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 2021-03-08 18:17:23.851 [main] TC_IRCTC_001 - ***** Clicking on Login*****

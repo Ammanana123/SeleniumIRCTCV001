@@ -1,0 +1,272 @@
+[INFO ] 08-03-2021 06:21:45.707 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 06:21:49.321 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 08-03-2021 06:21:59.705 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 08-03-2021 06:22:00.094 TC_IRCTC_001 - ***** Clicking on Login*****
+[INFO ] 08-03-2021 06:36:39.656 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 06:36:43.351 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 08-03-2021 06:36:53.268 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 08-03-2021 06:36:53.615 TC_IRCTC_001 - ***** Clicking on Login*****
+[INFO ] 08-03-2021 06:40:36.652 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 06:40:40.188 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 08-03-2021 06:40:50.855 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 08-03-2021 06:40:51.111 TC_IRCTC_001 - ***** Clicking on Login*****
+[INFO ] 08-03-2021 06:43:47.954 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 06:43:51.745 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 08-03-2021 06:44:01.573 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 08-03-2021 06:44:01.828 TC_IRCTC_001 - ***** Clicking on Login*****
+[INFO ] 08-03-2021 07:37:38.033 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 07:39:51.552 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 07:43:51.235 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 07:47:00.362 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 07:50:54.870 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 07:50:59.810 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 08-03-2021 07:51:10.047 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 08-03-2021 07:51:10.384 TC_IRCTC_001 - ***** Clicking on Login*****
+[INFO ] 08-03-2021 07:53:55.225 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 07:54:01.965 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 08-03-2021 08:04:13.397 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 08:04:18.581 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 08-03-2021 08:16:57.280 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 08:17:08.718 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 08-03-2021 08:17:18.284 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 08-03-2021 08:17:18.591 TC_IRCTC_001 - ***** Clicking on Login*****
+[WARN ] 08-03-2021 08:17:18.955 TC_IRCTC_001 - ***** SeleniumIRCTC Method failed and Screenshot captured******
+[INFO ] 08-03-2021 08:22:08.178 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 08:22:08.178 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 08:22:08.178 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 08:22:14.658 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 08-03-2021 08:22:15.500 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 08-03-2021 08:22:16.299 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 08-03-2021 08:22:28.246 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 08-03-2021 08:22:28.730 TC_IRCTC_001 - ***** Clicking on Login*****
+[INFO ] 08-03-2021 08:22:48.738 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 08-03-2021 08:22:49.004 TC_IRCTC_001 - ***** Clicking on Login*****
+[WARN ] 08-03-2021 08:22:49.357 TC_IRCTC_001 - ***** SeleniumIRCTC Method failed and Screenshot captured******
+[INFO ] 08-03-2021 08:25:15.391 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 08:25:15.391 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 08:25:15.697 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 08:25:21.896 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 08-03-2021 08:25:23.270 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 08-03-2021 08:25:24.207 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 08-03-2021 08:25:37.522 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 08-03-2021 08:25:37.990 TC_IRCTC_001 - ***** Clicking on Login*****
+[WARN ] 08-03-2021 08:25:38.616 TC_IRCTC_001 - ***** SeleniumIRCTC Method failed and Screenshot captured******
+[INFO ] 08-03-2021 08:25:55.004 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 08-03-2021 08:25:55.336 TC_IRCTC_001 - ***** Clicking on Login*****
+[WARN ] 08-03-2021 08:25:55.684 TC_IRCTC_001 - ***** SeleniumIRCTC Method failed and Screenshot captured******
+[INFO ] 08-03-2021 08:30:28.847 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 08:30:28.847 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 08:30:28.847 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 08:30:36.047 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 08-03-2021 08:30:36.081 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 08-03-2021 08:30:37.453 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 08-03-2021 08:31:34.068 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 08-03-2021 08:31:34.459 TC_IRCTC_001 - ***** Clicking on Login*****
+[WARN ] 08-03-2021 08:31:34.962 TC_IRCTC_001 - ***** SeleniumIRCTC Method failed and Screenshot captured******
+[INFO ] 08-03-2021 08:31:35.707 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 08-03-2021 08:31:36.608 TC_IRCTC_001 - ***** Clicking on Login*****
+[WARN ] 08-03-2021 08:31:37.077 TC_IRCTC_001 - ***** SeleniumIRCTC Method failed and Screenshot captured******
+[INFO ] 08-03-2021 08:50:19.494 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 08:50:19.494 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 08:50:19.494 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 08:50:26.534 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 08-03-2021 08:50:29.483 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 08-03-2021 08:50:29.919 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 08-03-2021 08:50:40.240 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 08-03-2021 08:50:40.536 TC_IRCTC_001 - ***** Clicking on Login*****
+[INFO ] 08-03-2021 08:52:13.609 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 08:52:13.609 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 08:52:13.609 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 08:52:20.846 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 08-03-2021 08:52:21.451 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 08-03-2021 08:52:21.729 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 08-03-2021 08:52:50.585 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 08-03-2021 08:52:50.950 TC_IRCTC_001 - ***** Clicking on Login*****
+[INFO ] 08-03-2021 08:52:51.311 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[WARN ] 08-03-2021 08:52:51.632 TC_IRCTC_001 - ***** SeleniumIRCTC Method failed and Screenshot captured******
+[INFO ] 08-03-2021 08:52:52.210 TC_IRCTC_001 - ***** Clicking on Login*****
+[WARN ] 08-03-2021 08:52:52.809 TC_IRCTC_001 - ***** SeleniumIRCTC Method failed and Screenshot captured******
+[INFO ] 08-03-2021 09:13:38.296 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 09:13:38.296 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 09:13:38.296 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 09:13:46.152 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 08-03-2021 09:13:46.522 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 08-03-2021 09:13:48.402 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 08-03-2021 09:13:59.639 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 08-03-2021 09:13:59.779 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 08-03-2021 09:14:00.292 TC_IRCTC_001 - ***** Clicking on Login*****
+[INFO ] 08-03-2021 09:14:00.573 TC_IRCTC_001 - ***** Clicking on Login*****
+[WARN ] 08-03-2021 09:14:01.599 TC_IRCTC_001 - ***** SeleniumIRCTC Method failed and Screenshot captured******
+[INFO ] 08-03-2021 09:17:14.336 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 09:17:14.478 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 09:17:14.482 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 09:17:21.351 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 08-03-2021 09:17:21.355 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 08-03-2021 09:17:50.240 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 08-03-2021 09:17:50.324 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 08-03-2021 09:17:51.007 TC_IRCTC_001 - ***** Clicking on Login*****
+[INFO ] 08-03-2021 09:17:51.175 TC_IRCTC_001 - ***** Clicking on Login*****
+[WARN ] 08-03-2021 09:17:51.588 TC_IRCTC_001 - ***** SeleniumIRCTC Method failed and Screenshot captured******
+[WARN ] 08-03-2021 09:17:51.826 TC_IRCTC_001 - ***** SeleniumIRCTC Method failed and Screenshot captured******
+[INFO ] 08-03-2021 09:21:28.135 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 09:21:28.291 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 09:21:28.294 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 09:21:35.689 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 08-03-2021 09:21:35.690 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 08-03-2021 09:22:33.590 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 08-03-2021 09:22:33.906 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 08-03-2021 09:22:34.186 TC_IRCTC_001 - ***** Clicking on Login*****
+[INFO ] 08-03-2021 09:22:34.513 TC_IRCTC_001 - ***** Clicking on Login*****
+[WARN ] 08-03-2021 09:22:34.726 TC_IRCTC_001 - ***** SeleniumIRCTC Method failed and Screenshot captured******
+[WARN ] 08-03-2021 09:22:35.264 TC_IRCTC_001 - ***** SeleniumIRCTC Method failed and Screenshot captured******
+[INFO ] 08-03-2021 09:28:59.024 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 09:28:59.192 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 09:28:59.198 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 09:29:07.336 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 08-03-2021 09:29:07.339 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 08-03-2021 09:29:15.605 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 08-03-2021 09:29:19.927 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 08-03-2021 09:29:20.448 TC_IRCTC_001 - ***** Clicking on Login*****
+[INFO ] 08-03-2021 09:29:20.610 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 08-03-2021 09:29:21.396 TC_IRCTC_001 - ***** Clicking on Login*****
+[WARN ] 08-03-2021 09:29:22.150 TC_IRCTC_001 - ***** SeleniumIRCTC Method failed and Screenshot captured******
+[WARN ] 08-03-2021 09:29:22.340 TC_IRCTC_001 - ***** SeleniumIRCTC Method failed and Screenshot captured******
+[INFO ] 08-03-2021 09:29:47.980 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 08-03-2021 09:29:48.424 TC_IRCTC_001 - ***** Clicking on Login*****
+[INFO ] 08-03-2021 09:31:30.095 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 09:31:30.100 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 09:31:30.330 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 09:31:39.352 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 08-03-2021 09:31:39.723 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 08-03-2021 09:31:47.478 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 08-03-2021 09:31:50.827 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 08-03-2021 09:31:51.655 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 08-03-2021 09:31:52.059 TC_IRCTC_001 - ***** Clicking on Login*****
+[INFO ] 08-03-2021 09:31:52.441 TC_IRCTC_001 - ***** Clicking on Login*****
+[WARN ] 08-03-2021 09:31:53.487 TC_IRCTC_001 - ***** SeleniumIRCTC Method failed and Screenshot captured******
+[INFO ] 08-03-2021 09:31:58.011 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 08-03-2021 09:31:58.484 TC_IRCTC_001 - ***** Clicking on Login*****
+[WARN ] 08-03-2021 09:31:58.900 TC_IRCTC_001 - ***** SeleniumIRCTC Method failed and Screenshot captured******
+[INFO ] 08-03-2021 09:33:14.010 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 09:33:14.010 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 09:33:14.010 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 09:33:20.461 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 08-03-2021 09:33:20.463 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 08-03-2021 09:33:26.524 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 08-03-2021 09:33:36.839 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 08-03-2021 09:33:37.274 TC_IRCTC_001 - ***** Clicking on Login*****
+[INFO ] 08-03-2021 09:33:50.620 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 08-03-2021 09:33:51.032 TC_IRCTC_001 - ***** Clicking on Login*****
+[WARN ] 08-03-2021 09:33:51.767 TC_IRCTC_001 - ***** SeleniumIRCTC Method failed and Screenshot captured******
+[INFO ] 08-03-2021 09:33:54.156 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 08-03-2021 09:33:54.711 TC_IRCTC_001 - ***** Clicking on Login*****
+[INFO ] 08-03-2021 09:35:07.749 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 09:35:07.749 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 09:35:07.749 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 09:35:14.783 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 08-03-2021 09:35:14.953 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 08-03-2021 09:35:21.204 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 08-03-2021 09:35:25.367 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 08-03-2021 09:35:25.756 TC_IRCTC_001 - ***** Clicking on Login*****
+[INFO ] 08-03-2021 09:35:47.119 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 08-03-2021 09:35:47.533 TC_IRCTC_001 - ***** Clicking on Login*****
+[WARN ] 08-03-2021 09:35:47.914 TC_IRCTC_001 - ***** SeleniumIRCTC Method failed and Screenshot captured******
+[INFO ] 08-03-2021 09:37:06.785 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 09:37:06.785 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 09:37:06.785 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 09:37:14.388 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 08-03-2021 09:37:14.664 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 08-03-2021 09:37:20.083 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 08-03-2021 09:37:25.368 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 08-03-2021 09:37:25.768 TC_IRCTC_001 - ***** Clicking on Login*****
+[INFO ] 08-03-2021 09:37:47.433 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 08-03-2021 09:37:47.814 TC_IRCTC_001 - ***** Clicking on Login*****
+[INFO ] 08-03-2021 09:40:54.099 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 09:40:54.099 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 09:40:54.099 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 08-03-2021 09:41:01.742 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 08-03-2021 09:41:01.796 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 08-03-2021 09:41:08.090 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 08-03-2021 09:41:14.123 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 08-03-2021 09:41:14.538 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 08-03-2021 09:41:15.249 TC_IRCTC_001 - ***** Clicking on Login*****
+[INFO ] 08-03-2021 09:41:15.345 TC_IRCTC_001 - ***** Clicking on Login*****
+[WARN ] 08-03-2021 09:41:16.809 TC_IRCTC_001 - ***** SeleniumIRCTC Method failed and Screenshot captured******
+[WARN ] 08-03-2021 09:41:17.415 TC_IRCTC_001 - ***** SeleniumIRCTC Method failed and Screenshot captured******
+[INFO ] 08-03-2021 09:41:18.520 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 08-03-2021 09:41:19.097 TC_IRCTC_001 - ***** Clicking on Login*****
+[WARN ] 08-03-2021 09:41:19.747 TC_IRCTC_001 - ***** SeleniumIRCTC Method failed and Screenshot captured******
+[INFO ] 09-03-2021 05:00:13.592 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 09-03-2021 05:00:13.592 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 09-03-2021 05:00:13.592 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 09-03-2021 05:00:23.066 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 09-03-2021 05:00:23.401 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 09-03-2021 05:00:32.285 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 09-03-2021 05:00:36.706 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 09-03-2021 05:00:37.078 TC_IRCTC_001 - ***** Clicking on Login*****
+[INFO ] 09-03-2021 05:00:37.598 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[WARN ] 09-03-2021 05:00:38.216 TC_IRCTC_001 - ***** SeleniumIRCTC Method failed and Screenshot captured******
+[INFO ] 09-03-2021 05:00:38.626 TC_IRCTC_001 - ***** Clicking on Login*****
+[WARN ] 09-03-2021 05:00:39.112 TC_IRCTC_001 - ***** SeleniumIRCTC Method failed and Screenshot captured******
+[INFO ] 09-03-2021 05:19:59.960 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 09-03-2021 05:19:59.960 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 09-03-2021 05:19:59.960 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 09-03-2021 05:20:08.200 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 09-03-2021 05:20:08.200 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 09-03-2021 05:20:20.359 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 09-03-2021 05:20:22.087 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 09-03-2021 05:20:22.350 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 09-03-2021 05:20:23.021 TC_IRCTC_001 - ***** Clicking on Login*****
+[INFO ] 09-03-2021 05:20:23.167 TC_IRCTC_001 - ***** Clicking on Login*****
+[WARN ] 09-03-2021 05:20:24.383 TC_IRCTC_001 - ***** SeleniumIRCTC Method failed and Screenshot captured******
+[WARN ] 09-03-2021 05:20:24.857 TC_IRCTC_001 - ***** SeleniumIRCTC Method failed and Screenshot captured******
+[INFO ] 09-03-2021 05:20:31.390 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 09-03-2021 05:20:31.820 TC_IRCTC_001 - ***** Clicking on Login*****
+[INFO ] 09-03-2021 05:21:23.841 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 09-03-2021 05:21:23.841 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 09-03-2021 05:21:23.841 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 09-03-2021 05:21:31.103 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 09-03-2021 05:21:31.517 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 09-03-2021 05:21:36.964 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 09-03-2021 05:22:31.330 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 09-03-2021 05:22:32.027 TC_IRCTC_001 - ***** Clicking on Login*****
+[WARN ] 09-03-2021 05:22:32.728 TC_IRCTC_001 - ***** SeleniumIRCTC Method failed and Screenshot captured******
+[INFO ] 09-03-2021 05:23:37.566 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 09-03-2021 05:23:37.566 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 09-03-2021 05:23:37.566 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 09-03-2021 05:23:47.621 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 09-03-2021 05:23:47.678 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 09-03-2021 05:23:55.711 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 09-03-2021 05:24:02.365 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 09-03-2021 05:24:02.400 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 09-03-2021 05:24:03.043 TC_IRCTC_001 - ***** Clicking on Login*****
+[INFO ] 09-03-2021 05:24:03.173 TC_IRCTC_001 - ***** Clicking on Login*****
+[WARN ] 09-03-2021 05:24:04.856 TC_IRCTC_001 - ***** SeleniumIRCTC Method failed and Screenshot captured******
+[WARN ] 09-03-2021 05:24:05.360 TC_IRCTC_001 - ***** SeleniumIRCTC Method failed and Screenshot captured******
+[INFO ] 09-03-2021 05:24:07.618 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 09-03-2021 05:24:08.214 TC_IRCTC_001 - ***** Clicking on Login*****
+[WARN ] 09-03-2021 05:24:08.616 TC_IRCTC_001 - ***** SeleniumIRCTC Method failed and Screenshot captured******
+[INFO ] 09-03-2021 06:49:28.362 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 09-03-2021 06:49:28.362 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 09-03-2021 06:49:28.362 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 09-03-2021 06:49:35.962 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 09-03-2021 06:49:37.391 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 09-03-2021 06:49:45.661 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 09-03-2021 06:49:55.969 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 09-03-2021 06:49:56.624 TC_IRCTC_001 - ***** Clicking on Login*****
+[WARN ] 09-03-2021 06:49:57.054 TC_IRCTC_001 - ***** SeleniumIRCTC Method failed and Screenshot captured******
+[INFO ] 09-03-2021 06:55:38.666 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 09-03-2021 06:55:38.819 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 09-03-2021 06:55:38.823 TC_IRCTC_001 - ****Opening chrome browser*******
+[INFO ] 09-03-2021 06:55:47.430 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 09-03-2021 06:55:47.633 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 09-03-2021 06:55:55.218 TC_IRCTC_001 - ****Opening IRCTC website*******
+[INFO ] 09-03-2021 06:56:01.282 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 09-03-2021 06:56:01.325 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 09-03-2021 06:56:01.903 TC_IRCTC_001 - ***** Clicking on Login*****
+[INFO ] 09-03-2021 06:56:02.063 TC_IRCTC_001 - ***** Clicking on Login*****
+[WARN ] 09-03-2021 06:56:02.438 TC_IRCTC_001 - ***** SeleniumIRCTC Method failed and Screenshot captured******
+[WARN ] 09-03-2021 06:56:03.543 TC_IRCTC_001 - ***** SeleniumIRCTC Method failed and Screenshot captured******
+[INFO ] 09-03-2021 06:56:06.160 TC_IRCTC_001 - ***** Clicking on Deluxe train*****
+[INFO ] 09-03-2021 06:56:06.620 TC_IRCTC_001 - ***** Clicking on Login*****
+[WARN ] 09-03-2021 06:56:07.176 TC_IRCTC_001 - ***** SeleniumIRCTC Method failed and Screenshot captured******

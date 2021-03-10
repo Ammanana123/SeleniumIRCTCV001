@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
+  <parameter name="browser" value="ie"/>
+  <listeners>
+    <listener class-name="testUtilities.ExtentReportManager"/>
+  </listeners>
+  <test name="edgeTest">
+    <parameter name="browser" value="edge"/>
+    <classes>
+      <class name="testCases.TC_IRCTC_001"/>
+    </classes>
+  </test> <!-- edgeTest -->
+  <test name="chromeTest">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="testCases.TC_IRCTC_001"/>
+    </classes>
+  </test> <!-- chromeTest -->
+  <test name="IETest">
+    <parameter name="browser" value="ie"/>
+    <classes>
+      <class name="testCases.TC_IRCTC_001"/>
+    </classes>
+  </test> <!-- IETest -->
+  <test name="IETest(failed)" parallel="tests">
+    <parameter name="browser" value="ie"/>
+    <classes>
+      <class name="testCases.TC_IRCTC_001">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="closeBrowser"/>
+          <include name="testMethod_001"/>
+          <include name="setupMethod"/>
+          <include name="setupMethod"/>
+          <include name="setupMethod"/>
+        </methods>
+      </class> <!-- testCases.TC_IRCTC_001 -->
+    </classes>
+  </test> <!-- IETest(failed) -->
+</suite> <!-- Failed suite [Suite] -->
